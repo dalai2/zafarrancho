@@ -1,8 +1,12 @@
 // Importa aquí tus fuentes.
 @import url("https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap");
+@font-face {
+  font-family: "Tattink";
+  src: local("Tattink"), url(../../fonts/TATTI.woff) format("woff");
+}
 
-$font-primary: "Arvo", serif;
+$font-primary: "Tattink ", serif;
 $font-secondary: "Open Sans", sans-serif;
 
 $font-size-small: 20px;

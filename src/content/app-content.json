@@ -48,34 +48,54 @@
     ],
     "products": [
       {
-        "title": "Hamburgesa sencilla",
+        "image": "https://evanstore.s3-us-west-2.amazonaws.com/hamburguesa_clasica.jpg",
+        "alt": "",
+        "title": "Hamburgesa Clásica",
+        "subtitle": "120gr de sirlion, cebollas caramelizadas, queso oaxaca, queso gouda, queso provolone, vegetales, pan artesanal.",
+        "price": "$70.00"
+      },
+      {
+        "image": "https://evanstore.s3-us-west-2.amazonaws.com/hamburguesa_hawai.jpg",
+        "alt": "",
+        "title": "Hamburguesa Hawai",
+        "subtitle": "120gr de sirlion, cebollas caramelizadas, queso oaxaca, queso gouda, queso provolone, vegetales,piña a la plancha, pan artesanal.",
+        "price": "$80.00"
+      },
+      {
+        "image": "https://evanstore.s3-us-west-2.amazonaws.com/tocino_wak.jpg",
+        "alt": "",
+        "title": "Hamburguesa Tocinowak",
+
+        "subtitle": "120gr de sirlion, cebollas caramelizadas,guacamole, cuatro quesos (cabra, gouda, oaxaca, y provolone), vegetales, pan artesanal.",
+        "price": "$90.00"
+      },
+      {
+        "image": "https://evanstore.s3-us-west-2.amazonaws.com/arracherita.jpg",
+        "alt": "",
+        "title": "Hamburguesa Arracherita",
         "subtitle": "1 lb de res con queso, verdura y pan.",
-        "price": "$10.00"
+        "price": "$110.00"
       },
       {
-        "title": "Hamburguesa doble",
-        "subtitle": "1 lb de res con queso, verdura y pan.",
-        "price": "$15.00"
+        "image": "https://evanstore.s3-us-west-2.amazonaws.com/hot_bbq.jpg",
+        "alt": "",
+        "title": "Hot-BBQ",
+        "subtitle": "Salchicha de res, cebollas caramelizadas, queso gouda, salsa bbq, tocino, vegetales.",
+        "price": "$70.00"
       },
       {
-        "title": "Hamburguesa especial",
-        "subtitle": "1 lb de res, tocineta, queso, verdura y pan.",
-        "price": "$20.00"
+        "image": "https://evanstore.s3-us-west-2.amazonaws.com/guacamole_mole.jpg",
+        "alt": "",
+        "title": "Guacamole Mole",
+        "subtitle": "Salchicha de res 120gr. guacamole, xalapeños, queso gouda, tocino, vegetales.",
+        "price": "$78.00"
       },
       {
-        "title": "Hotdog sencillo",
-        "subtitle": "1 lb de res con queso, verdura y pan.",
-        "price": "$10.00"
-      },
-      {
-        "title": "Hotdog doble",
-        "subtitle": "1 lb de res con queso, verdura y pan.",
-        "price": "$15.00"
-      },
-      {
-        "title": "Hotdog especial",
-        "subtitle": "1 lb de res, tocineta, queso, verdura y pan.",
-        "price": "$20.00"
+        "image": "https://evanstore.s3-us-west-2.amazonaws.com/mushroom_dog.jpg",
+        "alt": "",
+        "title": "Mushroom Dog",
+        "subtitle": "salchicha de res 120.gr. champiñones con chorizo, queso gouda, cebollas caramelizadas, tomate",
+        "price": "$78.00"
       }
     ]
   },

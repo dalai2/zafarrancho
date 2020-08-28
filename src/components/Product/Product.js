@@ -11,6 +11,7 @@ function Product(props) {
 
   return (
     <div className={cssClass}>
+      <img src={content.image} alt={content.alt} width="250" height="250" />
       <h4 className={`${cssClass}-title h4--dark`}>{content.title}</h4>
       <p className={`${cssClass}-description`}>{content.subtitle}</p>
       <Cta type={uiConfig.cta} label={content.price} />
